@@ -1,0 +1,15 @@
+html, body, div, h1{margin: 0;padding: 0;border: 0;}
+body {font-family: Arial, "Trebuchet MS";font-size: 12px;color: #99A607; }
+a{font-weight: bold;color: #99A607;text-decoration:none;}
+a:hover{color: #99A607;text-decoration:underline;}
+#container{width:80%;margin: auto;}
+#top{width:100%;margin-top: 25px; height:60px; border:1px solid #BBBBBB; padding:10px;}
+#tutorialHead{width:100%;margin-top: 25px; height:30px; border:1px solid #BBBBBB; padding:10px;}
+.tutorialTitle{width:800px;float:left;}
+.tutorialLink{float:right;}
+#wrapper{width:98%;margin-top: 25px; border:1px solid #BBBBBB; padding:20px;height:250px;}
+#wrapper a {color:#000;font-weight: normal;}
+.wrap_box{margin-left:35%;margin-top:30px;font-size:14px;}
+select { border: solid 1px #BBBBBB  ;  width:170px; height:25px ;font-size:20px; margin:15px;}
+option {  }
+#fotter{clear:both;text-align:right;font-size:10px;color: #222; border:1px solid #BBBBBB; padding:10px;width:100%;margin-top: 25px;}
