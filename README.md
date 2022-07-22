@@ -1,20 +1,17 @@
-# Online-Freelancing-System
-This is online freelancing system is developed in order to showcase the functionality of freelancing system. As a part of project it is complete end to end web application which includes basic essential features and functionalities with documentation given.
-
----
+# Online Freelancing System
+This is an online freelancing system developed to connect employers to freelancers directly. It is a complete end to end web application which incorporates the basic essential features and functionalities of a freelancing service. Also, documentation is available for reference.
 
 ## Core Functionality
-- There is employee entity which can Bid on project posted by any employer. Besides employee can search employer.
-- Employer can post the the poject work.
----
+- The employee entity can bid on any project posted by the employers. 
+- Employee can also search for an employer.
+- Employer can post new projects.
 
-## Programming and Framework 
+## Languages and Frameworks used 
 - PHP 
 - MySQL
 - HTML
 - CSS
 - JS
-- JQuery
----
+- jQuery
 
-*There is doucumentation given in `SRS_and_Documentation` folder where one can find full system architechture and flow.
+***Documentation has been provided in the "SRS_and_Documentation" folder where one can find the full system architecture and flow.***
